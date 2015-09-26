@@ -14,7 +14,7 @@ use FeatherBB\Core\Url;
 use FeatherBB\Core\Utils;
 use FeatherBB\Core\Error;
 use FeatherBB\Core\Track;
-use FeatherBB\Core\DB;
+use FeatherBB\Core\Database as DB;
 
 class PrivateMessages
 {

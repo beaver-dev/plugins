@@ -11,7 +11,7 @@ namespace FeatherBB\Plugins;
 
 use FeatherBB\Core\Plugin as BasePlugin;
 use FeatherBB\Core\Error;
-use FeatherBB\Core\DB;
+use FeatherBB\Core\Database as DB;
 
 class PrivateMessages extends BasePlugin
 {
