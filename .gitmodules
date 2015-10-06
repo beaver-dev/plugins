@@ -1,3 +1,6 @@
 [submodule "langs"]
 	path = langs
 	url = https://github.com/beaver-dev/langs
+[submodule "docs"]
+	path = docs
+	url = https://github.com/featherbb/docs
